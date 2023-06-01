@@ -1,4 +1,7 @@
-# webcompas
+<img alt="webcompas" style="width:100%;" src="https://github.com/qrai/webcompas/blob/main/etc/banner.png?raw=true">
+Simple service for creating embeddable WebComponents easily, by writing code directly in browser.
+
+My another service that is for building WebComponents – [Orcos](https://github.com/qrai/Orcos)
 
 ## Project setup
 ```
@@ -19,6 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
